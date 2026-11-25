@@ -9,5 +9,6 @@ public class ReverseString {
 			rev=s.charAt(i)+rev;
 		}
 		System.out.println(rev);
+		System.out.println("+++++++++++++++gcdh+++++++++");
 	}
 }
